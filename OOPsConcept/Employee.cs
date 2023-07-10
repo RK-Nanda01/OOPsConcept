@@ -3,9 +3,8 @@ namespace OOPsConcept
 {
 	public class Employee
 	{
-		private
-			string name;
-			int age;
+		public string name;
+        public int age;
 
 		public Employee(string name, int age)
 		{
